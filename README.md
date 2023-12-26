@@ -11,7 +11,7 @@
 
 * 📌 I'm currently learning: JavaScript and C++
 * 📌 Currently Seeking May 2024 Internship Opportunities
-* 📌 Currently working on a project that utilizes a popular machine learning framework for real-time object detection
+* 📌 Currently working on web design and building web applications
 
 **🤝 Connect with me**
 
