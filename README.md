@@ -17,7 +17,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-khoshkbarchi-0a5b3a262/)
 [![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ucdanielk@gmail.com)
-<a href="danielkhoshkbarchi.com" style="text-decoration: none;">
+<a href="[danielkhoshkbarchi.com](https://danielkhoshkbarchi.com/)" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Website-333333?style=for-the-badge&logoColor=white" alt="Website">
 </a>
 
