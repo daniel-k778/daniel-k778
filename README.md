@@ -5,13 +5,11 @@
 </div>
 <div align="center">
   
-  ### I'm a first-year Engineering student with a profound passion for technology and software development.
+  ### I'm a first-year Engineering student with a passion for technology and software development.
 
 </div>
 
-* 📌 I'm currently learning: JavaScript and C++
 * 📌 Currently Seeking May 2024 Internship Opportunities
-* 📌 Currently working on web design and building web applications
 
 **🤝 Connect with me**
 
@@ -29,11 +27,8 @@
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
 
 **Explore My Work**
 
-[Link to My GitHub Repository](https://github.com/daniel-k778?tab=repositories)
-
-Thank you for visiting! 🚀
+[GitHub Repository](https://github.com/daniel-k778?tab=repositories)
