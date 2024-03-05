@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   
-  ### I'm a first-year Engineering student with a passion for technology and software development.
+  ### I'm a software engineering student with a passion for technology and software development.
 
 </div>
 
