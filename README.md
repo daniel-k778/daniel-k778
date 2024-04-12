@@ -1,16 +1,3 @@
-<div align="center">
-  
-  # Hi 👋, I'm Daniel
-  
-</div>
-<div align="center">
-  
-  ### I'm a software engineering student with a passion for technology and software development.
-
-</div>
-
-* 📌 Currently Seeking May 2024 Internship Opportunities
-
 **🤝 Connect with me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-khoshkbarchi-0a5b3a262/)
@@ -29,6 +16,3 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
 
-**Explore My Work**
-
-[GitHub Repository](https://github.com/daniel-k778?tab=repositories)
